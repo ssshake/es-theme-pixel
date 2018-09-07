@@ -1,5 +1,5 @@
 Theme 'pixel' v1.9.3 - 11-09-2016 by Rookervik
-[Theme 'pixel' unofficial v2.0 - 09-04-2018 by The Gemsbok]
+[Theme 'pixel' unofficial v2.0 - 09-07-2018 by The Gemsbok]
 
 Thanks to muriani for the super-sexy Sega CD logo!
 Thanks to Omnija for helping me fix some code errors.
@@ -8,7 +8,7 @@ Thanks to Omnija for helping me fix some code errors.
 
 Updates:
 
-[- 09/04/2018: The Gemsbok: added own art of 3DS, Wii U, Switch, Vita, PS3, PS4, Xbox, Xbox 360, Xbox One, Odyssey, CD-i, Color TV-Game, and PC-FX; adjusted many system colors; adjusted positions of many theme elements; and standardized all console descriptions.]
+[- 09/07/2018: The Gemsbok: added own art of Color TV-Game, 3DS, Wii U, Switch, PS3, Vita, PS4, Xbox, Xbox 360, Xbox One, Telstar, Odyssey, CD-i, and PC-FX; adjusted many system colors; adjusted positions of many theme elements; and standardized all console descriptions.]
 
 - 11/09/2016: Added Stratagus, SuperGrafx, Oric, Channel F, Mega-CD, and BBC Micro.
 - 10/26/2016: Added SNK MVS and PC Engine CD-ROM. Renamed pcecd to pce-cd and tg16 to tg-16.
